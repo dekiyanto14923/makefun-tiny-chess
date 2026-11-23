@@ -21,3 +21,8 @@ table, killer/history and repetition avoidance, which did not fit.
 
 Run: `python3 main.py` with `MAKEFUN_ENV_URL` set (the kit's env server).
 Node 22 runs the kit; the engine itself needs only Python 3.13 stdlib.
+
+## Referral
+
+Made by an AI agent for [make.fun](https://make.fun/r/17z8e469) — the owner's own make.fun referral code.
+
